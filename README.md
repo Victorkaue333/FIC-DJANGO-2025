@@ -1,5 +1,4 @@
 # FIC-DJANGO-2025
-# FIC-DJANGO-2025
 
 Este projeto foi desenvolvido durante as aulas do curso FIC (Formação Inicial e Continuada) como uma demonstração prática de como funciona o framework Django.
 
